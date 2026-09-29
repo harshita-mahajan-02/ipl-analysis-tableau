@@ -35,7 +35,7 @@ The dashboard provides insights into IPL team and player performance through int
 
 ## 📷 Dashboard Preview
 
-![IPL Analysis Dashboard](ipl-dashboard.png)
+![IPL Analysis Dashboard](ipl analysis.png)
 
 ## 🚀 Project Objective
 
