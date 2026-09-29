@@ -2,44 +2,33 @@
 
 ## 📊 Project Overview
 
-This project presents an interactive **IPL Analysis Dashboard** developed using **Tableau**.
+Interactive IPL Analysis Dashboard built using **Tableau** to explore team performance, player statistics, batting and bowling records, and season-wise insights.
 
-The dashboard provides insights into IPL team and player performance through interactive visualizations and season-based analysis.
-
-## 🎯 Key Analysis
+## 📌 Key Analysis
 
 - 🏆 Title Winner
-- 🟠 Orange Cap holder and runs
-- 🟣 Purple Cap holder and wickets
-- 🏏 Tournament 6's
-- 🏏 Tournament 4's
-- 📊 Batsman statistics
-- 🎯 Bowling statistics
-- 📅 Season-wise analysis
+- 🟠 Orange Cap & Runs
+- 🟣 Purple Cap & Wickets
+- 🏏 Tournament 6's & 4's
+- 📊 Batsman Statistics
+- 🎯 Bowling Statistics
+- 📅 Season-wise Analysis
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Skills
 
 - Tableau
-- Data Visualization
 - Data Analysis
+- Data Visualization
 - Interactive Dashboard
 - Sports Analytics
 
-## 📌 Dashboard Features
-
-- Season selection
-- Interactive player statistics
-- Batting performance analysis
-- Bowling performance analysis
-- IPL team and tournament insights
-
 ## 📷 Dashboard Preview
 
-![IPL Analysis Dashboard](ipl analysis.png)
+![IPL Analysis Dashboard](ipl%20analysis.png)
 
 ## 🚀 Project Objective
 
-The objective of this project is to analyze IPL data and present meaningful cricket statistics through an interactive Tableau dashboard.
+To analyze IPL data and present meaningful cricket statistics through an interactive Tableau dashboard.
 
 ## 👩‍💻 Author
 
